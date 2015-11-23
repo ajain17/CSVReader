@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.sling.api-2.2.0-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/org.apache.sling.api-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
